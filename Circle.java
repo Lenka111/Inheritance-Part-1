@@ -1,4 +1,5 @@
 //Elena Voinu
+//base class for all circle object that we are going to create
 public class Circle {
     private double radius; // instance variable
 
